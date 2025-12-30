@@ -1,0 +1,7 @@
+discord.py
+pymongo[srv]
+python-dotenv
+Flask
+beautifulsoup4
+requests
+Pillow
