@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="resources/public/favicon.png" alt="Maxis Logo" width="200"/>
+</p>
+
 # Maxis - Discord Bot
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
